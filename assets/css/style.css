@@ -1,4 +1,9 @@
+body
+{
+background-image: url(../img/Body.jpg);
+color:white ;
 
+}
 #vistaespectador
 {
     background-color: #0707f1;
@@ -26,14 +31,22 @@ i.fa-solid.fa-user.fa-2xl:hover:hover
 }
 .portada 
 {
+    
     margin-top: 7%;
     opacity: 100% ;
     text-align: start;
-    background-image: url(../img/fabrica\ automovil.jpg);
-    background-position: 66% ;
+    /*background-image: url(../img/carroceria-fabricacion-equipos.jpg);*/
+    background-position:  12rem 12rem 12rem 12rem;
+   
     
 }
-.imagen.portada 
+
+.subtitulos
 {
-    width: 100%;
+color:white;
+}
+.about
+{
+    margin-left: 1%;
+    text-align: start;
 }
